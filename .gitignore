@@ -1,0 +1,9 @@
+CMakeFiles/
+CMakeCache.txt
+code
+build/
+*.in
+*.out
+gen.py
+Makefile
+cmake_install.cmake
